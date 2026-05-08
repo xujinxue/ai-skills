@@ -23,3 +23,4 @@ Local skills are stored as:
 ~/.agents/<skill-name>/SKILL.md
 
 When a user request matches a skill's "When to use" section, read and follow that SKILL.md before answering.
+
