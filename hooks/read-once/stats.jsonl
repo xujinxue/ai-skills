@@ -1,0 +1,17 @@
+{"ts":1777347624,"path":"/Users/xujinxue/.claude/settings.json","tokens":304,"session":"6e2d5737d71ad483","event":"miss"}
+{"ts":1777347632,"path":"/Users/xujinxue/.claude/plugins/marketplaces/claude-plugins-official/.claude-plugin/marketplace.json","tokens":37022,"session":"6e2d5737d71ad483","event":"miss"}
+{"ts":1777347765,"path":"/Users/xujinxue/.claude/plugins/marketplaces/anthropic-agent-skills/skills/pptx/SKILL.md","tokens":3901,"session":"6e2d5737d71ad483","event":"miss"}
+{"ts":1777354763,"path":"/Users/xujinxue/.claude/plugins/cache/anthropic-agent-skills/document-skills/5128e1865d67/skills/pptx/pptxgenjs.md","tokens":5446,"session":"6e2d5737d71ad483","event":"miss"}
+{"ts":1777368810,"path":"/Users/xujinxue/.claude/plugins/cache/anthropic-agent-skills/document-skills/5128e1865d67/skills/pptx/editing.md","tokens":2925,"session":"5027fa31bf69a3b2","event":"miss"}
+{"ts":1777368810,"path":"/Users/xujinxue/.claude/plugins/cache/anthropic-agent-skills/document-skills/5128e1865d67/skills/pptx/pptxgenjs.md","tokens":5446,"session":"5027fa31bf69a3b2","event":"miss"}
+{"ts":1777369408,"path":"/tmp/docx_extract/extracted/word/document.xml","tokens":319379,"session":"5027fa31bf69a3b2","event":"miss"}
+{"ts":1777369476,"path":"/tmp/docx_content.txt","tokens":15157,"session":"5027fa31bf69a3b2","event":"miss"}
+{"ts":1778080270,"path":"/Users/xujinxue/git/time_series_workflow/docs/power_predict_guide.md","tokens":4063,"session":"fee3a8e6178f5743","event":"miss"}
+{"ts":1778080270,"path":"/Users/xujinxue/git/time_series_workflow/.claude/commands/power-predict.md","tokens":5244,"session":"fee3a8e6178f5743","event":"miss"}
+{"ts":1778080279,"path":"/Users/xujinxue/git/time_series_workflow/config/power_predict/location/xiaojian_windy.json","tokens":1492,"session":"fee3a8e6178f5743","event":"miss"}
+{"ts":1778080373,"path":"/Users/xujinxue/git/time_series_workflow/config/power_predict/location/linghuashan_windy.json","tokens":1545,"session":"fee3a8e6178f5743","event":"miss"}
+{"ts":1778080374,"path":"/Users/xujinxue/git/time_series_workflow/config/power_predict/location/xiaohe_windy.json","tokens":1490,"session":"fee3a8e6178f5743","event":"miss"}
+{"ts":1778080644,"path":"/Users/xujinxue/git/time_series_workflow/config/power_trade/anhui/anhui_day_ahead_electric_public_general.json","tokens":1924,"session":"fee3a8e6178f5743","event":"miss"}
+{"ts":1778080644,"path":"/Users/xujinxue/git/time_series_workflow/config/power_trade/liaoning/liaoning_day_ahead_electric_public_general.json","tokens":5691,"session":"fee3a8e6178f5743","event":"miss"}
+{"ts":1778081013,"path":"/Users/xujinxue/git/time_series_workflow/config/power_trade/anhui/anhui_real_time_user_load_quantity_534363.json","tokens":2213,"session":"fee3a8e6178f5743","event":"miss"}
+{"ts":1778081014,"path":"/Users/xujinxue/git/time_series_workflow/config/power_trade/jiangsu_release/jiangsu_real_time_user_load_quantity_853537_open_meteo_gfs_global_0_false_CNN_TransFormer_Kalman_SMAPE_ACC_base.json","tokens":2830,"session":"fee3a8e6178f5743","event":"miss"}
