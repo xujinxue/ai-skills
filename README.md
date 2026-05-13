@@ -124,6 +124,16 @@ AI Agent 原本的联网能力（WebSearch、WebFetch）缺少调度策略和浏
 
 目前版本：v2.5.0
 
+前置条件：
+CDP 模式需要 Node.js 22+ 和 Chrome 开启远程调试：
+Chrome 地址栏打开 chrome://inspect/#remote-debugging
+勾选 Allow remote debugging for this browser instance（可能需要重启浏览器）
+
+## DeepPaperNote
+
+精度论文
+
+来源：https://github.com/917Dhj/DeepPaperNote
 
 # hooks
 
